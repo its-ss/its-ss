@@ -1,4 +1,3 @@
-# Suyash
 # Hi there! 👋 Welcome to My GitHub Profile
 
 I'm [Your Name], a passionate [Your Role or Title, e.g., Software Developer, Data Scientist, etc.] with a focus on [specific areas of expertise, e.g., web development, machine learning, backend development, etc.]. I love learning new technologies, solving challenging problems, and building cool projects!
