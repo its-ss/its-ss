@@ -17,10 +17,7 @@ I'm Suyash Shukla,  a passionate DevOps and Cloud Enthusiast with a focus on clo
 ## 🛠️ Tech Stack
 
 ### Languages:
-- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-- ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-- ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) - ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat) - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E? ogo=javascript&logoColor=black&style=flat) - ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)
 
 ### Frameworks & Libraries:
 - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
