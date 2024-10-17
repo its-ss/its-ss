@@ -47,11 +47,6 @@ I'm Suyash Shukla,  a passionate DevOps and Cloud Enthusiast with a focus on clo
 
 ---
 
-## 🏆 Achievements
-- 🥇 Winner of [hackathon/competition name]
-- ✍️ Published [technical articles, blogs, papers]
-- 💻 Contributed to [open source project name]
-
 Feel free to check out my repositories and star anything that catches your interest!
 
 Thanks for stopping by! 😄
