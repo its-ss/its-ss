@@ -9,7 +9,7 @@ I'm Suyash Shukla,  a passionate DevOps and Cloud Enthusiast with a focus on clo
 - 🌱 I’m currently learning Kubernetes and advanced AWS services, always eager to expand my cloud computing and containerization skills.
 - 👯 I’m looking to collaborate on DevOps projects, cloud-native applications, and automation pipelines.
 - 💬 Ask me about Docker, Kubernetes, AWS, CI/CD pipelines, and cloud infrastructure management.
-- 📫 How to reach me: itssuyash7@gmail.com
+- 📫 How to reach me: itssuyash03@gmail.com
 - ⚡ Fun fact:  I enjoy exploring anime and mythology, which also inspires my project names!
 
 ---
